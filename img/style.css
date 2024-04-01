@@ -38,7 +38,7 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #00FF08;
+    color: #013b03;
 }
 
 button:hover,
@@ -178,7 +178,6 @@ section.topo-do-site .flex {
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
 }
-
 
 @keyframes flutuar {
     0% {
