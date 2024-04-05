@@ -1,3 +1,6 @@
+
+  LINK DO SITE: [https://eduardobatistamatos.github.io/Meu-CV/](https://eduardobatistamatos.github.io/Meu-CV/)
+  
   Esse projeto se trata de um dos trabalhos para o meu professor de “Web”, nesse projeto foi desenvolvido um site em HTML e CSS no qual nós alunos da Fatec tínhamos que desenvolver um site que fosse o nosso currículo, hospeda-lo e subir ele pro GitHub.
 
   Eu Eduardo Batista tenho muito interesse na área de dados, então estou me direcionando pra isso e o meu portfólio logicamente está voltado pra essa área.
@@ -31,6 +34,10 @@ Primeiro eu comecei mostrando o que eu gero de valor com o meu trabalho.
 E por ultimo o meu e-mail que é uma forma mais fácil de contato. 
 
   ![Captura de tela 2024-04-04 202014](https://github.com/EduardoBatistaMatos/Meu-CV/assets/162808278/1f3f2cb5-5892-4963-9649-8c10ed1f4df7)
+
+
+
+
 
 
 
